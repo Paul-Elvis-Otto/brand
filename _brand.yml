@@ -1,17 +1,17 @@
 color:
   palette:
     dark-grey: "#222222"
-    blue: "#ddeaf1"
-  background: "#F8F4E3"
-  foreground: dark-grey
+    ivory: "#F8F4E3"
+  background: ivory
+  foreground: black
   primary: black
 
 logo:
-  medium: logo.png
+  medium: brand/logo.png
 
 typography:
   fonts:
-    - family: Jura
+    - family: EB Garamond
       source: google
-  base: Jura
-  headings: Jura
+  base: EB Garamond
+  headings: EB Garamond
